@@ -4,7 +4,7 @@
 ```
 {
     "require": {
-      "lucasaguiar86/yii2-sftp-phpseclib": "dev-master"
+      "lucasaguiar86/yii2-sftp-phpseclib": "dev-main"
    }
 }
 ```
